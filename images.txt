@@ -1,2 +1,2 @@
 nginx
-syslog-ng:latest
+balabit/syslog-ng:latest
